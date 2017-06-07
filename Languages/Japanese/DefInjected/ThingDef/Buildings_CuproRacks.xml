@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GeneralShelving.label>ロッカー(小)</GeneralShelving.label>
+  <GeneralShelving.description>これに収納されたアイテムは、たとえ屋根のない場所に台所収納が設置してあっても腐敗することはありませんが、それでもHPにはダメージを受けます。</GeneralShelving.description>
+  <GeneralShelving_Blueprint.label>ロッカー(小)(設計)</GeneralShelving_Blueprint.label>
+  <GeneralShelving_Blueprint_Install.label>ロッカー(小)(移動先)</GeneralShelving_Blueprint_Install.label>
+  <GeneralShelving_Frame.label>ロッカー(小)(施工)</GeneralShelving_Frame.label>
+  <GeneralShelving_Frame.description>これに収納されたアイテムは、たとえ屋根のない場所に台所収納が設置してあっても腐敗することはありませんが、それでもHPにはダメージを受けます。</GeneralShelving_Frame.description>
+</LanguageData>
